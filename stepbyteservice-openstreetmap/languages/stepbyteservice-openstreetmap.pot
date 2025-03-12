@@ -1,0 +1,330 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-10-19 09:12+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;i18n.__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+
+#: assets/js/openstreetmap-block.js:10
+msgid "map"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:11
+msgid "leaflet"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:137
+#: includes/sbs-openstreetmap-wpbakery.php:236
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:42
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:54
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:65
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:76
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:91
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:112
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:123
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:130
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:136
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:147
+msgid "Map"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:141
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:39
+msgid "Map Style"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:159 assets/js/openstreetmap-block.js:342
+#: assets/js/openstreetmap-block.js:384
+#: includes/sbs-openstreetmap-wpbakery.php:164
+#: includes/sbs-openstreetmap-wpbakery.php:189
+#: includes/sbs-openstreetmap-wpbakery.php:235
+msgid "Terms of Use"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:163
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:51
+msgid "Map Style Key"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:164
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:53
+msgid "You need an api key or acess token to use the chosen map style. Please inform yourself on the website of the provider."
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:177
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:64
+msgid "You need to whitelist your domain to use the chosen map style. Please inform yourself on the website of the provider."
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:180
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:74
+msgid "Map Height in Relation to Width"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:196
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:89
+msgid "Zoom Level"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:207
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:110
+msgid "Zoom With CTRL-Key Only"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:216
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:120
+msgid "Latitude of the Map's Center"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:217 assets/js/openstreetmap-block.js:245
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:122
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:129
+msgid "Only needed if marker is not the center of the map"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:244
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:127
+msgid "Longitude of the Map's Center"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:272
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:134
+msgid "Activate Routing"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:281
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:144
+msgid "Show Attribution"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:282
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:146
+msgid "Attributions for content providers are shown as links on the bottom right corner of the map. If you disable the checkbox please consider the legal circumstances."
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:293
+#: includes/sbs-openstreetmap-wpbakery.php:165
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:158
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:170
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:182
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:196
+msgid "Routing"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:297
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:155
+msgid "Default Routing Destination"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:301 assets/js/openstreetmap-block.js:408
+msgid "No Marker"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:307 assets/js/openstreetmap-block.js:414
+#: assets/js/openstreetmap-block.js:444
+#: includes/wpbakeryshortcode-sbs-wpb-marker.php:34
+#: includes/wpbakeryshortcode-sbs-wpb-marker.php:47
+#: includes/wpbakeryshortcode-sbs-wpb-marker.php:56
+#: includes/wpbakeryshortcode-sbs-wpb-marker.php:65
+#: includes/wpbakeryshortcode-sbs-wpb-marker.php:75
+#: includes/wpbakeryshortcode-sbs-wpb-marker.php:82
+#: includes/wpbakeryshortcode-sbs-wpb-marker.php:109
+msgid "Marker"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:319
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:168
+msgid "Routing Service"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:337
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:181
+msgid "This plugin uses OSRM`s demo server by default for demonstration purpose of the routing option. However it is not suitable for actual use as a routing service, as the server can deny access at any time or may not be available at all times. Please choose a different routing service for actual use on your website."
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:345
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:193
+msgid "Routing Key"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:346
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:195
+msgid "You need an api key or an access token to use the chosen routing service. Please inform yourself on the website of the service provider. If chosen provider is same as map style provider, leave field empty to use key from map style key field."
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:357
+#: includes/sbs-openstreetmap-wpbakery.php:190
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:207
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:214
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:225
+msgid "Geocoding"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:363
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:206
+msgid "Geocoding is used for translating an address to latitude and longitude when choosing address as source for the marker position or when routing is activated."
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:366
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:212
+msgid "Geocoding Service"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:388
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:222
+msgid "Geocoding Key"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:389
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:224
+msgid "You need an api key or an access token to use the chosen geocoding service. Please inform yourself on the website of the service provider. If chosen provider is same as map style provider, leave field empty to use key from map style key field."
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:400
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:236
+msgid "Markers"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:404
+msgid "Center map on"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:466
+#: includes/wpbakeryshortcode-sbs-wpb-marker.php:32
+msgid "Determine Position By"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:469 assets/js/openstreetmap-block.js:478
+#: includes/wpbakeryshortcode-sbs-wpb-marker.php:36
+#: includes/wpbakeryshortcode-sbs-wpb-marker.php:44
+msgid "Address"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:470
+#: includes/wpbakeryshortcode-sbs-wpb-marker.php:37
+msgid "Coordinates"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:505
+#: includes/wpbakeryshortcode-sbs-wpb-marker.php:53
+msgid "Latitude"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:523
+#: includes/wpbakeryshortcode-sbs-wpb-marker.php:62
+msgid "Longitude"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:551
+msgid "Show From All"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:552
+msgid "Search Icons"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:553
+msgid "No Icons Found"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:554
+msgid "Select Icon"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:557
+#: includes/wpbakeryshortcode-sbs-wpb-marker.php:80
+msgid "Color"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:560
+#: includes/wpbakeryshortcode-sbs-wpb-marker.php:84
+msgid "Red"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:561
+#: includes/wpbakeryshortcode-sbs-wpb-marker.php:85
+msgid "White"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:562
+#: includes/wpbakeryshortcode-sbs-wpb-marker.php:86
+msgid "Blue"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:563
+#: includes/wpbakeryshortcode-sbs-wpb-marker.php:87
+msgid "Green"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:564
+#: includes/wpbakeryshortcode-sbs-wpb-marker.php:88
+msgid "Black"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:565
+#: includes/wpbakeryshortcode-sbs-wpb-marker.php:89
+msgid "Orange"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:566
+#: includes/wpbakeryshortcode-sbs-wpb-marker.php:90
+msgid "Yellow"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:591
+#: includes/wpbakeryshortcode-sbs-wpb-marker.php:107
+msgid "Popup Text"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:619
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:293
+msgid "Add Marker"
+msgstr ""
+
+#: includes/wpbakeryshortcode-sbs-wpb-marker.php:20
+msgid "SBS OpenStreetMap Marker"
+msgstr ""
+
+#: includes/wpbakeryshortcode-sbs-wpb-marker.php:27
+msgid "Configurable OpenStreetMap marker"
+msgstr ""
+
+#: includes/wpbakeryshortcode-sbs-wpb-marker.php:70
+msgid "Icon"
+msgstr ""
+
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:20
+msgid "SBS OpenStreetMap"
+msgstr ""
+
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:29
+msgid "Configurable OpenStreetMap module"
+msgstr ""
+
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:114
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:138
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:149
+msgid "Yes"
+msgstr ""
+
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:157
+msgid "Enter the number of the marker that should be the default routing destination. If no marker is supposed to be the routing destination enter 0. (The number is based on the order of the marker elements in the map element.)"
+msgstr ""
+
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:233
+msgid "Center Map on"
+msgstr ""
+
+#: includes/wpbakeryshortcode-sbs-wpb-openstreetmap.php:235
+msgid "Enter the number of the marker that should be in the center of the map. If no marker is supposed to be in the center enter 0. (The number is based on the order of the marker elements in the map element.)"
+msgstr ""

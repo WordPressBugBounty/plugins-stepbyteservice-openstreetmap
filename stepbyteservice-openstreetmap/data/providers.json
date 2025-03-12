@@ -1,0 +1,70 @@
+{
+    "OpenStreetMap": {
+        "terms": "https://operations.osmfoundation.org/policies/tiles/",
+        "variants": [
+            "DE",
+            "Mapnik",
+            "France",
+            "HOT"
+        ]
+    },
+    "OpenTopoMap": {
+        "terms": "https://opentopomap.org/about"
+    },
+    "Stadia": {
+        "dependency": "whitelist",
+        "terms": "https://stadiamaps.com/terms-of-service/",
+        "variants": [
+            "Alidade Smooth",
+            "Alidade Smooth Dark",
+            "Outdoors",
+            "OSM Bright",
+            "Stamen Toner",
+            "Stamen Toner Lite",
+            "Stamen Terrain",
+            "Stamen Watercolor"
+        ]
+    },
+    "Thunderforest": {
+        "dependency": "apikey",
+        "terms": "https://www.thunderforest.com/terms/",
+        "variants": [
+            "OpenCycleMap",
+            "Transport",
+            "Transport Dark",
+            "SpinalMap",
+            "Landscape",
+            "Outdoors",
+            "Pioneer",
+            "MobileAtlas",
+            "Neighbourhood"
+        ]
+    },
+    "MapBox": {
+        "dependency": "accesstoken",
+        "terms": "https://www.mapbox.com/legal/tos/"
+    },
+    "CartoDB": {
+        "terms": "https://carto.com/legal/",
+        "variants": [
+            "Positron",
+            "DarkMatter",
+            "Voyager"
+        ]
+    },
+    "MapTiler": {
+        "dependency": "apikey",
+        "terms": "https://www.maptiler.com/cloud/terms/",
+        "variants": [
+            "Basic",
+            "Bright",
+            "Pastel",
+            "Positron",
+            "Hybrid",
+            "Streets",
+            "Toner",
+            "Topo",
+            "Voyager"
+        ]
+    }
+}
